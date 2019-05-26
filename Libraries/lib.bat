@@ -1,2 +1,3 @@
 pip install robotframework-seleniumlibrary
 pip install robotframework
+pip install allure-robotframework
